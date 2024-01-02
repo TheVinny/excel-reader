@@ -1,9 +1,9 @@
-import { createBrowserRouter } from 'react-router-dom'
+import { createHashRouter } from 'react-router-dom'
 import Home from '../../../../modules/Home/Page/Home'
 import Staff from '../../../../modules/StaffTable/Page/StaffTable'
 import App from '../../../App'
 
-const Routes = createBrowserRouter([
+const Routes = createHashRouter([
   {
     element: <App />,
     children: [
