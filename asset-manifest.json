@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/excel-reader/static/css/main.efe74614.css",
+    "main.js": "/excel-reader/static/js/main.e7425292.js",
+    "static/media/logo.png": "/excel-reader/static/media/logo.246520685d96fdd0cb6f.png",
+    "index.html": "/excel-reader/index.html",
+    "main.efe74614.css.map": "/excel-reader/static/css/main.efe74614.css.map",
+    "main.e7425292.js.map": "/excel-reader/static/js/main.e7425292.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efe74614.css",
+    "static/js/main.e7425292.js"
+  ]
+}
